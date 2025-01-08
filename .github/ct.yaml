@@ -1,0 +1,7 @@
+helm-extra-args: --timeout 60
+check-version-increment: true
+debug: true
+target-branch: main
+
+chart-repos:
+  - newrelic=https://helm-charts.newrelic.com
